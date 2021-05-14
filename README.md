@@ -8,8 +8,8 @@
 
 ### Screenshots
 
-![](https://github.com/novak-k/resto-app/blob/master/screenshots/1.png|alt=main)
+![](https://github.com/novak-k/resto-app/blob/master/screenshots/1.png)
 - 
-![](https://github.com/novak-k/resto-app/blob/master/screenshots/2.png|alt=main)
+![](https://github.com/novak-k/resto-app/blob/master/screenshots/2.png)
 - 
-![](https://github.com/novak-k/resto-app/blob/master/screenshots/3.png|alt=main)
+![](https://github.com/novak-k/resto-app/blob/master/screenshots/3.png)
