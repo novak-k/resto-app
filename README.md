@@ -2,7 +2,7 @@
     This project was created based on Udemy course.
 
 ### Technologies: 
-    React, Scss, JavaScript
+    React, Redux, Scss, JavaScript
 #### Dependencies: 
     json-server
 
